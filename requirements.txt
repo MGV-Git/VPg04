@@ -1,0 +1,8 @@
+langchain
+deepagents
+python-dotenv
+langchain-openai
+langchain-text-splitters
+beautifulsoup4
+pinecone
+pyTelegramBotAPI
